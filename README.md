@@ -2,24 +2,11 @@
 penetration testing framework with automated vulnerability assessment, exploit validation, network mapping, and continuous monitoring. Parallel processing, real-time threat intelligence, and bug bounty report generation.
 
 
-
-# Mecca X - Advanced Penetration Testing Framework
-
-![Version](https://img.shields.io/badge/version-1.0-blue)
-![Python](https://img.shields.io/badge/python-3.8+-green)
-![License](https://img.shields.io/badge/license-MIT-orange)
-
 > Next-generation penetration testing framework with automated vulnerability assessment, exploit validation, and continuous monitoring - 100% FREE.
 
 ## 📸 Screenshots
 
-### Main Menu
-![Mecca X Main Menu](screenshots/main_menu.png)
-*Clean, organized interface with categorized options*
-
-### Full Menu Options
-![Mecca X Full Menu](screenshots/full_menu.png)
-*All features: Passive Recon, Active Scanning, Exploitation, Monitoring & Reporting*
+### Check Screenshots folder.
 
 ## 🎯 What It Does
 
